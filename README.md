@@ -1,6 +1,15 @@
 # A guide for Neo4j & Cypher
 A basic cheat sheet for Cypher query language and a small family tree demo for graph database Neo4j.  
 
+## Installation
+
+### Local usage
+For local setup, please refer [Neo4j's official download page](https://neo4j.com/download/).  
+Neo4j Server or Neo4j  Desktop can be downloaded. Neo4j Desktop offers a user interface to manage operations. User can also create multiple databases. But Neo4j Server does not offer a user interface. It can be controlled via terminal and it does not have multiple database option in community edition.
+
+### Cloud usage
+For cloud setup, [Sandbox Neo4j](https://sandbox.neo4j.com/) can be used. It offers cloud solution for Neo4j online for 3 days long if you just register.
+
 ## Cypher Manual
 Reference for descriptions and examples can be found at [The Neo4j Cypher Manual v4.2](https://neo4j.com/docs/cypher-manual/current/).
 
